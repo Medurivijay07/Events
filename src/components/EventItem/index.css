@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.each-event-item {
+  margin: 10px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #ffffff;
+}
+
+.image-button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.event-image {
+  width: 100%;
+}
